@@ -1,1 +1,1 @@
-# test-assets-hdr
+A collection of various HDR test images
